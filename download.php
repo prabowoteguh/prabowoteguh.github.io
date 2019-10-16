@@ -1,5 +1,5 @@
 <?php
-$name = "CV_Prabowo_Teguh.pdf";
+$name = "CV - Teguh Agung Prabowo.pdf";
 download($name);
 
 function download($name)
